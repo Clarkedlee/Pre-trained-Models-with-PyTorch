@@ -11,3 +11,5 @@ use pre-trained resnet18 models to classify between the negative and positive sa
 ## The github link for Resnent18:
 <br>[The resnent18 models](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)
 
+![Resnet18 Mode]()
+
