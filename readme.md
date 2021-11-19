@@ -1,7 +1,7 @@
 # Use of Pre-train neural network
 
 ## introduction:
-use pre-trained resnet18 models to classify between the negative and positive samples; you will be provided with the dataset object. The particular pre-trained model will be resnet18; you will have three questions:
+Use pre-trained resnet18 models to classify between the negative and positive samples; you will be provided with the dataset object. The particular pre-trained model will be resnet18; you will have three questions:
 
 - [x] change the output layer
 - [x] train the model
